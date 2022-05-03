@@ -1,0 +1,9 @@
+{
+	"normal": {
+		"Phyrexian With Font": "PhyrexianWithFontTemplate",
+		"Classic Borderless": "ClassicBorderlessTemplate",
+		"Classic Textless": "ClassicTextlessTemplate",
+		"Minimalist": "MinimalistTemplate",
+		"Khaldeim Textless": "KhaldeimTextlessTemplate"
+	}
+}
